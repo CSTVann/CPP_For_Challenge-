@@ -1,3 +1,4 @@
+'''c++
 //If you want to output like this
 /*
 *
@@ -23,6 +24,4 @@ int main()
 
     return 0;
 }
-'''
-
 '''
